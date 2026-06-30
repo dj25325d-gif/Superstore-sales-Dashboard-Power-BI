@@ -164,7 +164,7 @@ F --> G[Business Insights]
 
 # 👨‍💻 Author
 
-**Dash**
+**Dushyant V**
 
 Aspiring Data Analyst | Power BI Developer
 
